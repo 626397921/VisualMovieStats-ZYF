@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>电影数据分析平台</title>
+    <!-- 修正 CSS 文件路径 -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</head>
+<body>
+    <!-- 侧边栏 -->
+    <div class="sidebar">
+        <div class="sidebar-logo">
+            <img src="{{ url_for('static', filename='images/logo.png') }}" alt="logo">
+        </div>
+        <ul class="sidebar-menu">
+            <li style="font-weight: bold; font-size: larger; pointer-events: none;"><span>首页</span></li>
+<!--            <li><a href="#" data-target="homepage">首页</a></li>-->
+            <li><a href="#" data-target="movie-list">电影列表</a></li>
+            <li style="font-weight: bold; font-size: larger; pointer-events: none;"><span>数据图表</span></li>
+          <li><a href="#" data-target="movie-release-count-by-year">各年份上映电影数量</a></li>
+            <li><a href="#" data-target="genre-ratio">电影类型占比</a></li>
+            <li><a href="#" data-target="rating-sample">电影评分抽样</a></li>
+            <li><a href="#" data-target="top-10-list">电影榜单TOP10</a></li>
+            <li><a href="#" data-target="top-20-reviewers">电影评价人数TOP20</a></li>
+            <li style="font-weight: bold; font-size: larger; pointer-events: none;"><span>词云</span></li>
+            <li><a href="#" data-target="movie-wordcloud">电影词云</a></li>
+        </ul>
+    </div>
+    <!-- 主内容区域 -->
+    <div class="main-content"></div>
+</body>
+</html>

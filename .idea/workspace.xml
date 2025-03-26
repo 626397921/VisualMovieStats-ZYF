@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2b9a47a4-f455-4b04-a397-1469b5b38440" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.secret" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/2001太空漫游 2001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/7号房的礼物 7번방의 선물.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/一一.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/一个叫欧维的男人决定去死 En man som heter Ove.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/七宗罪 Se7en.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/七武士 七人の侍.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/三傻大闹宝莱坞 3 Idiots.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/三块广告牌 Three Billboards Outside Ebbing, Missouri.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/上帝之城 Cidade de Deus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/东京教父 東京ゴッドファーザーズ.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/东邪西毒 東邪西毒.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/两杆大烟枪 Lock, Stock and Two Smoking Barrels.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/九品芝麻官.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/乱世佳人 Gone with the Wind.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/人工智能 A.I. Artificial Intelligence.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/低俗小说 Pulp Fiction.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/何以为家 كفرناحوم.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/你的名字。 君の名は。.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/你看起来好像很好吃 おまえうまそうだな.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/侧耳倾听 耳をすませば.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/借东西的小人阿莉埃蒂 借りぐらしのアリエッティ.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/倩女幽魂.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/傲慢与偏见 Pride &amp; Prejudice.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/入殓师 おくりびと.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/冰川时代 Ice Age.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/冰雪奇缘 Frozen.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/初恋这件小事 สิ่งเล็กเล็กที่เรียกว่า...รัก.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/剪刀手爱德华 Edward Scissorhands.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/功夫.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/加勒比海盗 Pirates of the Caribbean.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/勇敢的心 Braveheart.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/十二怒汉 12 Angry Men.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/千与千寻 千と千尋の神隠し.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/千年女优 千年女優.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/千钧一发 Gattaca.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/卢旺达饭店 Hotel Rwanda.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/可可西里.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/告白.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/哈利·波特与凤凰社 Harry Potter and the Order of the Phoenix.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/哈利·波特与密室 Harry Potter and the Chamber of Secrets.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/哈利·波特与死亡圣器(上) Harry Potter and the Deathly Hallows.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/哈利·波特与死亡圣器(下) Harry Potter and the Deathly Hallows.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/哈利·波特与火焰杯 Harry Potter and the Goblet of Fire.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/哈利·波特与阿兹卡班的囚徒 Harry Potter and the Prisoner of Azkaban.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/哈利·波特与魔法石 Harry Potter and the Sorcerer's Stone.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/哈尔的移动城堡 ハウルの動く城.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/哪吒之魔童降世.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/哪吒闹海.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/唐伯虎点秋香 唐伯虎點秋香.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/喜剧之王 喜劇之王.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/喜宴 囍宴.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/城市之光 City Lights.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/大佛普拉斯.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/大红灯笼高高挂.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/大话西游之大圣娶亲 西遊記大結局之仙履奇緣.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/大话西游之月光宝盒 西遊記第壹佰零壹回之月光寶盒.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/大闹天宫.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/大鱼 Big Fish.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/天书奇谭.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/天使爱美丽 Le Fabuleux destin d'Amélie Poulain.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/天堂电影院 Nuovo Cinema Paradiso.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/天空之城 天空の城ラピュタ.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/头号玩家 Ready Player One.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/头脑特工队 Inside Out.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/奇迹男孩 Wonder.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/完美的世界 A Perfect World.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/寄生虫 기생충.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/寻梦环游记 Coco.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/射雕英雄传之东成西就 射鵰英雄傳之東成西就.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/小丑 Joker.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/小偷家族 万引き家族.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/小森林 冬春篇 リトル・フォレスト 冬・春.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/小森林 夏秋篇 リトル・フォレスト 夏・秋.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/小鞋子 بچه های آسمان.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/少年派的奇幻漂流 Life of Pi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/岁月神偷 歲月神偷.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/崖上的波妞 崖の上のポニョ.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/布达佩斯大饭店 The Grand Budapest Hotel.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/幸福终点站 The Terminal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/幽灵公主 もののけ姫.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/弱点 The Blind Side.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/当幸福来敲门 The Pursuit of Happyness.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/彗星来的那一夜 Coherence.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/心灵奇旅 Soul.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/心灵捕手 Good Will Hunting.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/心迷宫.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/忠犬八公物语 ハチ公物語.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/忠犬八公的故事 Hachi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/怦然心动 Flipped.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/怪兽电力公司 Monsters, Inc..jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/恋恋笔记本 The Notebook.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/恐怖游轮 Triangle.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/恐怖直播 더 테러 라이브.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/情书 Love Letter.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/惊魂记 Psycho.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/我不是药神.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/我是山姆 I Am Sam.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/战争之王 Lord of War.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/房间 Room.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/拯救大兵瑞恩 Saving Private Ryan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/指环王1：护戒使者 The Lord of the Rings.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/指环王2：双塔奇兵 The Lord of the Rings.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/指环王3：王者无敌 The Lord of the Rings.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/控方证人 Witness for the Prosecution.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/搏击俱乐部 Fight Club.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/摔跤吧！爸爸 Dangal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/摩登时代 Modern Times.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/放牛班的春天 Les choristes.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/教父 The Godfather.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/教父2 The Godfather.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/教父3 The Godfather.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/断背山 Brokeback Mountain.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/新世界 신세계.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/新龙门客栈 新龍門客棧.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/无人知晓 誰も知らない.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/无敌破坏王 Wreck-It Ralph.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/无耻混蛋 Inglourious Basterds.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/无间道 無間道.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/无间道2 無間道II.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/时空恋旅人 About Time.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/星际穿越 Interstellar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/春光乍泄 春光乍洩.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/未麻的部屋 Perfect Blue.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/末代皇帝 The Last Emperor.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/末路狂花 Thelma &amp; Louise.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/本杰明·巴顿奇事 The Curious Case of Benjamin Button.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/机器人之梦 Robot Dreams.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/机器人总动员 WALL·E.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/杀人回忆 살인의 추억.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/楚门的世界 The Truman Show.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/模仿游戏 The Imitation Game.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/步履不停 歩いても 歩いても.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/死亡诗社 Dead Poets Society.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/沉默的羔羊 The Silence of the Lambs.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/波西米亚狂想曲 Bohemian Rhapsody.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/泰坦尼克号 Titanic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/活着.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/海上钢琴师 La leggenda del pianista sull'oceano.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/海蒂和爷爷 Heidi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/海街日记 海街diary.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/海豚湾 The Cove.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/海边的曼彻斯特 Manchester by the Sea.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/消失的爱人 Gone Girl.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/源代码 Source Code.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/火星救援 The Martian.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/熔炉 도가니.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/爆裂鼓手 Whiplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/爱乐之城 La La Land.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/爱在午夜降临前 Before Midnight.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/爱在日落黄昏时 Before Sunset.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/爱在黎明破晓前 Before Sunrise.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/牯岭街少年杀人事件 牯嶺街少年殺人事件.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/狩猎 Jagten.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/狮子王 The Lion King.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/猫鼠游戏 Catch Me If You Can.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/玛丽和马克思 Mary and Max.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/玩具总动员3 Toy Story 3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/甜蜜蜜.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/电锯惊魂 Saw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/疯狂动物城 Zootopia.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/疯狂原始人 The Croods.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/疯狂的石头.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/疯狂的麦克斯4：狂暴之路 Mad Max.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/白日梦想家 The Secret Life of Walter Mitty.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/盗梦空间 Inception.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/看不见的客人 Contratiempo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/真爱至上 Love Actually.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/神偷奶爸 Despicable Me.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/禁闭岛 Shutter Island.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/穿条纹睡衣的男孩 The Boy in the Striped Pajamas.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/窃听风暴 Das Leben der Anderen.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/第六感 The Sixth Sense.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/素媛 소원.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/红辣椒 パプリカ.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/纵横四海 緃横四海.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/终结者2：审判日 Terminator 2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/绿皮书 Green Book.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/绿里奇迹 The Green Mile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/罗生门 羅生門.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/罗马假日 Roman Holiday.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/美丽人生 La vita è bella.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/美丽心灵 A Beautiful Mind.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/美国往事 Once Upon a Time in America.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/肖申克的救赎 The Shawshank Redemption.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/背靠背，脸对脸.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/致命ID Identity.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/致命魔术 The Prestige.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/色，戒.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/芙蓉镇.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/花束般的恋爱 花束みたいな恋をした.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/花样年华 花樣年華.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/英雄本色.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/茶馆.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/荒蛮故事 Relatos salvajes.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/菊次郎的夏天 菊次郎の夏.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/萤火之森 蛍火の杜へ.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/萤火虫之墓 火垂るの墓.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/虎口脱险 La grande vadrouille.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/蜘蛛侠：平行宇宙 Spider-Man.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/蝙蝠侠：黑暗骑士 The Dark Knight.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/蝙蝠侠：黑暗骑士崛起 The Dark Knight Rises.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/蝴蝶效应 The Butterfly Effect.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/血战钢锯岭 Hacksaw Ridge.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/血钻 Blood Diamond.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/被嫌弃的松子的一生 嫌われ松子の一生.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/被解救的姜戈 Django Unchained.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/西西里的美丽传说 Malèna.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/触不可及 Intouchables.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/让子弹飞.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/记忆碎片 Memento.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/请以你的名字呼唤我 Call Me by Your Name.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/谍影重重 The Bourne Identity.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/谍影重重2 The Bourne Supremacy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/谍影重重3 The Bourne Ultimatum.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/贫民窟的百万富翁 Slumdog Millionaire.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/超能陆战队 Big Hero 6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/超脱 Detachment.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/辛德勒的名单 Schindler's List.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/辩护人 변호인.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/达拉斯买家俱乐部 Dallas Buyers Club.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/这个杀手不太冷 Léon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/遗愿清单 The Bucket List.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/重庆森林 重慶森林.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/釜山行 부산행.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/钢琴家 The Pianist.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/闻香识女人 Scent of a Woman.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/阳光姐妹淘 써니.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/阳光灿烂的日子.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/阿凡达 Avatar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/阿甘正传 Forrest Gump.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/隐藏人物 Hidden Figures.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/雨中曲 Singin' in the Rain.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/雨人 Rain Man.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/霸王别姬.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/青蛇.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/音乐之声 The Sound of Music.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/风之谷 風の谷のナウシカ.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/飞屋环游记 Up.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/飞越疯人院 One Flew Over the Cuckoo's Nest.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/饮食男女 飲食男女.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/驯龙高手 How to Train Your Dragon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/高山下的花环.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/鬼子来了.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/魂断蓝桥 Waterloo Bridge.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/魔女宅急便 魔女の宅急便.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/黑天鹅 Black Swan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/黑客帝国 The Matrix.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/黑客帝国2：重装上阵 The Matrix Reloaded.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/黑客帝国3：矩阵革命 The Matrix Revolutions.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/电影图片/龙猫 となりのトトロ.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/movie_comment_wordcloud.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/movies.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/AUTHORS.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.slim.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.slim.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.slim.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/external/sizzle/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/external/sizzle/dist/sizzle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/external/sizzle/dist/sizzle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/external/sizzle/dist/sizzle.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/ajax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/ajax/jsonp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/ajax/load.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/ajax/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/ajax/var/location.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/ajax/var/nonce.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/ajax/var/rquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/ajax/xhr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/attributes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/attributes/attr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/attributes/classes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/attributes/prop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/attributes/support.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/attributes/val.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/callbacks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/core.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/DOMEval.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/access.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/camelCase.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/isAttached.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/nodeName.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/parseHTML.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/parseXML.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/ready-no-deferred.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/ready.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/readyException.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/stripAndCollapse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/support.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/toType.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/var/rsingleTag.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/css.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/addGetHookIf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/adjustCSS.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/curCSS.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/finalPropName.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/hiddenVisibleSelectors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/showHide.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/support.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/var/cssExpand.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/var/getStyles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/var/isHiddenWithinTree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/var/rboxStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/var/rnumnonpx.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/var/swap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/data/Data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/data/var/acceptData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/data/var/dataPriv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/data/var/dataUser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/deferred.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/deferred/exceptionHook.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/deprecated.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/deprecated/ajax-event-alias.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/deprecated/event.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/dimensions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/effects.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/effects/Tween.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/effects/animatedSelector.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/event.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/event/focusin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/event/support.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/event/trigger.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/exports/amd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/exports/global.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/manipulation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/_evalUrl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/buildFragment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/getAll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/setGlobalEval.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/support.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/var/rscriptType.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/var/rtagName.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/wrapMap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/offset.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/queue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/queue/delay.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/selector-native.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/selector-sizzle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/selector.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/serialize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/traversing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/traversing/findFilter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/traversing/var/dir.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/traversing/var/rneedsContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/traversing/var/siblings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/ObjectFunctionString.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/arr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/class2type.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/document.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/documentElement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/flat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/fnToString.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/getProto.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/hasOwn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/indexOf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/isFunction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/isWindow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/pnum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/push.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/rcheckableType.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/rcssNum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/rnothtmlwhite.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/slice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/support.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/toString.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/wrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/homepage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/movie-genre-percentage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/movie-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/movie-rating-sampling.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/movie-release-count-by-year.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/movie-top10-rankings.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/movie-top20-reviewers.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/爬取电影.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2u7saPsCWwa5O3Qr6fgLs5Bjzxh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python.app.executor": "Run",
+    "Python.import_movies_csv_to_db.executor": "Run",
+    "Python.main-副本.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.proxy_pool.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.代理IP.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "F:/VisualMovieStats-ZYF",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "http.proxy",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\VisualMovieStats-ZYF" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.app">
+    <configuration name="爬取电影" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="VisualMovieStats-ZYF" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="F:\VisualMovieStats-ZYF\爬取电影.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="代理IP" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="VisualMovieStats-ZYF" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/代理IP.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="VisualMovieStats-ZYF" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="database" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="VisualMovieStats-ZYF" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="F:\VisualMovieStats-ZYF\database.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main-副本" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="VisualMovieStats-ZYF" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main-副本.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="VisualMovieStats-ZYF" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+        <item itemvalue="Python.database" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.代理IP" />
+        <item itemvalue="Python.main-副本" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d68999036c7f-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.14475.56" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b9a47a4-f455-4b04-a397-1469b5b38440" name="Changes" comment="" />
+      <created>1741611012168</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741611012168</updated>
+      <workItem from="1741611014041" duration="10095000" />
+      <workItem from="1741699098330" duration="19014000" />
+      <workItem from="1741783416608" duration="12147000" />
+      <workItem from="1742055340174" duration="6119000" />
+      <workItem from="1742384893483" duration="5946000" />
+      <workItem from="1742565427718" duration="26997000" />
+      <workItem from="1742826402134" duration="13552000" />
+      <workItem from="1742988190388" duration="832000" />
+      <workItem from="1742990461920" duration="4122000" />
+      <workItem from="1742994655781" duration="1907000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/VisualMovieStats_ZYF$main_.coverage" NAME="main-副本 Coverage Results" MODIFIED="1741709004598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/VisualMovieStats_ZYF$IP.coverage" NAME="代理IP Coverage Results" MODIFIED="1741713858983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/VisualMovieStats_ZYF$test.coverage" NAME="test Coverage Results" MODIFIED="1742707539836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/VisualMovieStats_ZYF$proxy_pool.coverage" NAME="proxy_pool Coverage Results" MODIFIED="1741615796364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/VisualMovieStats_ZYF$main.coverage" NAME="main Coverage Results" MODIFIED="1742103623055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/VisualMovieStats_ZYF$import_movies_csv_to_db.coverage" NAME="import_movies_csv_to_db Coverage Results" MODIFIED="1742826981583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
+    <SUITE FILE_PATH="coverage/VisualMovieStats_ZYF$app.coverage" NAME="app Coverage Results" MODIFIED="1742993354508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

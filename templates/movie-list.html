@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <title>电影数据展示</title>
+    <!-- 引入 jQuery 库 -->
+    <script src="node_modules/jquery/dist/jquery.min.js"></script>
+    <style>
+        .stats-cards {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            margin-bottom: 20px;
+        }
+
+        .stats-card {
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            padding: 10px;
+            width: 150px;
+            text-align: center;
+        }
+
+        .movie-table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        .movie-table th,
+        .movie-table td {
+            border: 1px solid #ccc;
+            padding: 8px;
+            text-align: center;
+        }
+
+        #next-page {
+            margin-top: 20px;
+        }
+    </style>
+    <script>
+        $(document).ready(function () {
+            let currentPage = 1;
+            function loadMovieList(page) {
+                // 发起 Ajax 请求
+                $.ajax({
+                    url: `/movie-list?page=${page}`,  // 请求的后端接口地址，带上页码参数
+                    type: 'GET',  // 请求方式
+                    success: function (response) {
+                        console.log('响应数据:', response);
+                        if (response.error) {
+                            console.error('请求出错:', response.error);
+                            return;
+                        }
+                        const movies = response.movies;
+                        console.log('电影数据:', movies);
+                        // 打印总页数，用于调试
+                        console.log('当前页码:', page, '总页数:', response.total_pages);
+                        // 填充统计信息
+                        $('#total-movies').text(response.total_movies);
+                        $('#highest-rating').text(response.highest_rating);
+                        $('#genre-count').text(response.genre_count);
+                        $('#most-released-year').text(response.most_released_year);
+                        $('#max-duration').text(response.max_duration);
+
+                        // 清空表格数据
+                        const tbody = $('#movie-tbody');
+                        tbody.empty();
+
+                        // 填充表格数据
+                        movies.forEach((movie, index) => {
+                            const row = `
+                                <tr>
+                                    <td>${index + 1}</td>
+                                    <td>${movie['电影名称']}</td>
+                                    <td>${movie['上映年份']}</td>
+                                    <td>${movie['评分']}</td>
+                                    <td>${movie['评价人数']}</td>
+                                    <td>${movie['主演']}</td>
+                                    <td>${movie['类型']}</td>
+                                    <td>${movie['时长']}</td>
+                                </tr>
+                            `;
+                            tbody.append(row);
+                        });
+
+                        // 根据总页数判断是否显示下一页按钮
+                        if (page < response.total_pages) {
+                            console.log('显示下一页按钮');
+                            $('#next-page').show();
+                        } else {
+                            console.log('隐藏下一页按钮');
+                            $('#next-page').hide();
+                        }
+                    },
+                    error: function (error) {
+                        // 请求失败时的回调函数
+                        console.error('请求出错:', error);
+                    }
+                });
+            }
+
+            // 加载第一页数据
+            loadMovieList(currentPage);
+
+            // 下一页按钮点击事件
+            $('#next-page').click(function () {
+                currentPage++;
+                loadMovieList(currentPage);
+            });
+        });
+    </script>
+</head>
+
+<body>
+    <div class="stats-cards">
+        <div class="stats-card">
+            <div class="card-content">
+                <div class="card-text">
+                    <p id="total-movies"></p>
+                    <p>电影总数</p>
+                </div>
+            </div>
+        </div>
+        <div class="stats-card">
+            <div class="card-content">
+                <div class="card-text">
+                    <p id="highest-rating"></p>
+                    <p>最高电影评分</p>
+                </div>
+            </div>
+        </div>
+        <div class="stats-card">
+            <div class="card-content">
+                <div class="card-text">
+                    <p id="genre-count"></p>
+                    <p>电影种类数</p>
+                </div>
+            </div>
+        </div>
+        <div class="stats-card">
+            <div class="card-content">
+                <div class="card-text">
+                    <p id="most-released-year"></p>
+                    <p>最多电影上映年份</p>
+                </div>
+            </div>
+        </div>
+        <div class="stats-card">
+            <div class="card-content">
+                <div class="card-text">
+                    <p id="max-duration"></p>
+                    <p>最大时长</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <table class="movie-table">
+        <thead>
+            <tr>
+                <th>编号</th>
+                <th>电影名</th>
+                <th>发行时间</th>
+                <th>评分</th>
+                <th>评价人数</th>
+                <th>主演</th>
+                <th>类型</th>
+                <th>时长</th>
+            </tr>
+        </thead>
+        <tbody id="movie-tbody">
+        </tbody>
+    </table>
+    <button id="next-page">下一页</button>
+</body>
+
+</html>

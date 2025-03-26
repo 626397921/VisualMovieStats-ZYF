@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>各年份上映电影数量</title>
+    <script src="node_modules/jquery/dist/jquery.min.js"></script>
+</head>
+<body>
+    <div id="yearly-movie-chart" style="width: 800px; height: 400px;"></div>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const chartDom = document.getElementById('yearly-movie-chart');
+            const myChart = echarts.init(chartDom);
+
+            // 获取数据
+            fetch('/api/yearly-movie-count')
+              .then(response => {
+                    if (!response.ok) {
+                        throw new Error(`HTTP error! status: ${response.status}`);
+                    }
+                    return response.json();
+                })
+              .then(data => {
+                    console.log("从接口获取到的数据：", data);
+                    if (data.error) {
+                        console.error(data.error);
+                        return;
+                    }
+
+                    const years = [];
+                    const counts = [];
+                    for (const [year, count] of Object.entries(data)) {
+                        years.push(year);
+                        counts.push(count);
+                    }
+
+                    const option = {
+                        title: {
+                            text: '各年份上映电影数量'
+                        },
+                        xAxis: {
+                            type: 'category',
+                            data: years
+                        },
+                        yAxis: {
+                            type: 'value'
+                        },
+                        series: [{
+                            data: counts,
+                            type: 'bar'
+                        }]
+                    };
+
+                    myChart.setOption(option);
+                })
+              .catch(error => {
+                    console.error('获取数据失败:', error.message);
+                });
+        });
+    </script>
+</body>
+</html>
